@@ -1,0 +1,569 @@
+.bg-image {
+    background-image: url(image/bg1.png);
+    width: 100%;
+    height: 100vh;  
+    background-size: cover; 
+}
+
+.logo h1 {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    color: white;
+    padding-top: 50px;
+}
+
+.banner-text h1 {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 64px;
+    line-height: 100px;
+    color: #FFFFFF;
+}
+
+.banner-text p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 40px;
+    color: #FFFFFF;
+}
+
+form {
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    width: 430px;
+    height: 607px;
+    color: white;
+    padding: 30px;
+}
+
+form h2 {
+    text-align: center;
+}
+
+.input-style {
+    background: #FBFBFB;
+    border-radius: 4px;
+    height: 50px;
+    padding-left: 20px;
+    border: none;
+    margin-top: 10px;
+}
+
+label {
+    margin-top: 10px;
+}
+
+.btn-daftar {
+    background: #1FD5EE;
+    box-shadow: 0px 4px 44px rgba(113, 238, 255, 0.35);
+    border-radius: 4px;
+    height: 50px;
+    width: 100%;
+    border: none;
+    margin-top: 30px;
+}
+
+/*about*/
+
+    /*about flex 1*/
+
+    .about .flex{
+        max-width: 1440px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+    
+    .about .flex .image1{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 115.78px;
+        top: 891.67px;
+    }
+
+    .about .flex .image11{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 80px;
+        top: 927.45px;
+    }
+
+
+    /*about content 1*/
+
+    .about .content1 h3{
+        position: absolute;
+        width: 455px;
+        height: 40px;
+        left: 736px;
+        top: 984px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 34px;
+        line-height: 40px;
+
+        color: #012A40;
+    }
+
+    .about .flex .content1 p{
+        position: absolute;
+        width: 624px;
+        height: 120px;
+        left: 736px;
+        top: 1050px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 40px;
+
+        color: #012A40;
+    }
+    
+    .about .flex .content1 a{
+        position: absolute;
+        height: 40px;
+        left: 723px;
+        top: 1200px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 40px;
+        color: #1FD5EE;
+    }
+
+
+    /*about flex 2*/
+
+    .about .flex{
+        max-width: 1440px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .about .flex .image22{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 801.78px;
+        top: 1528.34px;
+
+    }
+
+    .about .flex .image2{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 766px;
+        top: 1492.56px;
+    }
+
+
+    /*about content2*/
+
+    .about .content2 h3{
+        position: absolute;
+        width: 436px;
+        height: 78px;
+        left: 80px;
+        top: 1604px;
+        
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 34px;
+        line-height: 40px;
+        
+        color: #012A40;
+    }
+
+    .about .flex .content2 p{
+        position: absolute;
+        width: 624px;
+        height: 109px;
+        left: 80px;
+        top: 1670px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 40px;
+        
+        color: #012A40;
+    }
+
+    .about .flex .content2 a{
+        position: absolute;
+        height: 29px;
+        left: 67px;
+        top: 1827px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 40px;
+    
+        color: #1FD5EE;
+    }
+
+    /*about flex 3*/
+    .about .flex{
+        max-width: 1440px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .about .flex .image33{
+        position: absolute;
+        width: 558.22px;
+        height: 497.56px;
+        left: 80px;
+        top: 2133.56px;
+    }
+
+    .about .flex .image3{
+        position: absolute;
+        width: 558.22px;
+        height: 497.56px;
+        left: 115.78px;
+        top: 2093.56px;
+    }
+
+    /*about content3*/
+    .about .content3 h3{
+        position: absolute;
+        width: 455px;
+        height: 40px;
+        left: 746px;
+        top: 2222.56px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 34px;
+        line-height: 40px;
+
+        color: #012A40;
+    }
+
+    .about .flex .content3 p{
+        position: absolute;
+        width: 624px;
+        height: 120px;
+        left: 746px;
+        top: 2300px;
+        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 40px;
+        
+        color: #012A40;
+    }
+
+    .about .flex .content3 a{
+        position: absolute;
+        height: 40px;
+        left: 733px;
+        top: 2440px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 40px;
+
+        color: #1FD5EE;
+    }
+
+    /*plans for you*/
+    /*title1*/
+    .plans .title1 h3{
+        position: absolute;
+        width: 252px;
+        height: 40px;
+        left: 640px;
+        top: 2751.67px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 40px;
+
+        color: #012A40;
+    }
+
+    .plans .title1 p{
+        position: absolute;
+        width: 615.55px;
+        height: 64px;
+        left: 442px;
+        top: 2825px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+        text-align: center;
+
+        color: #012A40;
+    }
+
+    .plans .flex{
+        max-width: 1440px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .plans .flex .plansimg1{
+        position: absolute;
+        width: 279.72px;
+        height: 360px;
+        left: 100px;
+        top: 2985.67px;
+        border-radius: 10px;
+    }
+
+    .plans .flex .plansimg2{
+        position: absolute;
+        width: 279.72px;
+        height: 360px;
+        left: 438px;
+        top: 2985.67px;
+        border-radius: 10px;
+    }
+
+    .plans .flex .plansimg3{
+        position: absolute;
+        width: 279.72px;
+        height: 360px;
+        left: 769px;
+        top: 2985.67px;
+        border-radius: 10px;
+    }
+
+    .plans .flex .plansimg4{
+        position: absolute;
+        width: 279.72px;
+        height: 360px;
+        left: 1109px;
+        top: 2985.67px;
+        border-radius: 10px;
+    }
+
+/*trainer*/
+    .trainer .flex{
+        max-width: 1440px;
+        margin:0 auto;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .trainer .flex .trainerimg1{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 801.78px;
+        top: 3501.45px;
+    }
+    
+    .trainer .flex .trainerimg2{
+        position: absolute;
+        width: 558.22px;
+        height: 445.1px;
+        left: 766px;
+        top: 3465.67px;
+    }
+
+    .trainer .flex .content4 h3{
+        position: absolute;
+        width: 420px;
+        height: 40px;
+        left: 80px;
+        top: 3600.67px;
+
+        font-family: 'Playfair Display';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 42px;
+        line-height: 40px;
+
+        color: #012A40;
+    }
+
+    .trainer .flex .content4 p{
+        position: absolute;
+        width: 624px;
+        height: 64px;
+        left: 80px;
+        top: 3675px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+
+        color: #012A40;
+    }
+
+    .trainer .flex .content4 a{
+        position: absolute;
+        height: 40px;
+        left: 65px;
+        top: 3770px;
+
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 40px;
+
+        color: #1FD5EE;
+    }
+
+/*footer*/
+.footer{
+    position: absolute;
+    width:100%;
+    height: 344px;
+    left: 0px;
+    top: 4197px;
+    background: #1B1E20;
+}
+
+.box-container .box h3{
+    position: absolute;
+    left: 80px;
+    top: 27px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 30px;
+    letter-spacing: 0.06em;
+    color: #1FD5EE;
+}
+
+.box-container .box h2{
+    position: absolute;
+    left: 80px;
+    top: 80px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #C4C4C4;
+}
+
+.box-container .box h1{
+    position: absolute;
+    left: 80px;
+    top: 110px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #1FD5EE;
+}
+
+.box-container .box1 h3{
+    position: absolute;
+    left: 525px;
+    top: 27px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 10px;
+    color: #FFFFFF;
+}
+
+.box-container .box1 a{
+    text-decoration: none;
+    display:grid;
+    left: 525px;
+    top: 27px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 10px;
+    color: #D1D1D1;
+}
+
+.box-container .box2 h3{
+    position: absolute;
+    left: 800px;
+    top: 27px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 10px;
+    color: #FFFFFF;
+
+}
+
+.box-container .box3 h3{
+    position: absolute;
+    left: 1100px;
+    top: 27px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 10px;
+    color: #FFFFFF;
+}
+
+.credit p{
+    position: absolute;
+    left: 640px;
+    top: 300px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 350;
+    font-size: 15px;
+    line-height: 10px;
+    text-align: center;
+
+    color: #1FD5EE;
+}
